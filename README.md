@@ -1,5 +1,5 @@
 # scrp_ee2025
-3-stages web scraping technical test.
+3-stage web scraping technical test.
 
 1. scrp_ee2025_cat.py - scrap web catalog;
 2. scrp_ee2025_exh.py - scrap exhibitors catalog;
